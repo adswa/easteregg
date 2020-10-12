@@ -1,0 +1,1 @@
+95660dbb-9c48-476f-937f-a7f7387c33dd chunk=50MiB encryption=none externaltype=rclone name=keeper prefix=bla rclone_layout=lower target=keeper type=external timestamp=1602503565.131850022s
